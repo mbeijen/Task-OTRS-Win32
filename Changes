@@ -1,4 +1,7 @@
-1.05      2013-02-04
+1.11      2013-02-27
+- Fixed source links.
+
+1.10      2013-02-04
 - Added Win32::Console::ANSI for ANSI colors in the console.
 
 1.04      2012-09-02
